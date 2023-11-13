@@ -1,2 +1,2 @@
 # pibbyandsmoething
-https://blytheyian.github.io/pibbyandsomething
+https://blytheyian.github.io/pibbyandsomething/homework.html
